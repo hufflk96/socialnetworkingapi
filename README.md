@@ -32,6 +32,8 @@ npm start
 
 You can use [Insomnia](https://insomnia.rest/) to test the REST API.
 
+https://watch.screencastify.com/v/vZWllRHb7DBRn6TMh0J6
+
 ## Contact Me
 
 Email: hufflk96@gmail.com
