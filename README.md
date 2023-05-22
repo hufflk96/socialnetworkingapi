@@ -12,7 +12,7 @@
 Clone the repository:
 
 ```sh
-
+https://github.com/hufflk96/socialnetworkingapi.git
 ```
 
 Install the required dependencies:
@@ -30,7 +30,7 @@ npm start
 
 ## Usage
 
-Use your browser or an app like [Insomnia](https://insomnia.rest/) to test the REST API.
+You can use [Insomnia](https://insomnia.rest/) to test the REST API.
 
 ## Contact Me
 
